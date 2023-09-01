@@ -15,7 +15,7 @@
 
 
 ![不能用就算了，懒得push](https://img2023.cnblogs.com/blog/3270540/202309/3270540-20230901173154451-1224493067.jpg)
-![]([屏幕截图 2023-09-01 173659.png](https://github.com/FHTHomeworkAtgdut/FHTHomeworkAtgdut/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-09-01%20173659.png))
+![](https://github.com/FHTHomeworkAtgdut/FHTHomeworkAtgdut/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-09-01%20173659.png)
 
 <!--
 **FHTHomeworkAtgdut/FHTHomeworkAtgdut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
